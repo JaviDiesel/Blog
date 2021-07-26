@@ -1,0 +1,11 @@
+#entrada    {
+    background-color:aqua;
+    border-style:solid;
+    border-width:1px;
+    border-radius:30px;
+    margin-top:20px;
+}
+
+#entrada *  {
+    padding:10px;
+}
