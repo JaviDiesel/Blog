@@ -3,7 +3,10 @@
     border-style:solid;
     border-width:1px;
     border-radius:30px;
+    border-color:rgb(47, 131, 131);
     margin-top:20px;
+    margin-bottom:20px;
+    cursor:pointer;
 }
 
 #entrada *  {

@@ -1,7 +1,5 @@
-#listado   {
+.fondoAzure   {
     background-color:azure;
-}
-
-#listado h3 {
     padding:10px;
+    margin-top:20px;
 }

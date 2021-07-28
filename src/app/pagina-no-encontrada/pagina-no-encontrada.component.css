@@ -1,0 +1,16 @@
+.fondoAzure   {
+    background-color:azure;
+    padding:10px;
+    margin-top:20px;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+
+.marino {
+    color:rgb(47, 131, 131);
+}
