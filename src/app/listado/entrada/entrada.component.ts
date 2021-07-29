@@ -12,7 +12,7 @@ export class EntradaComponent implements OnInit {
   public entrada:Entrada;
 
   constructor() {
-    this.entrada = {titulo:'', resumen:''};
+    this.entrada = {userId:0, id:0, title:'', body:''};
   }
 
   ngOnInit(): void {
